@@ -4,23 +4,23 @@
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
-<!-- Professional Light-Colored Social Icons (Top Section) -->
+<!-- Top Professional Social Icons (Top Section) -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
   <!-- Gmail -->
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/ios/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
   </a>
   <!-- Portfolio -->
   <a href="https://riskikesan05.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" width="50" height="50" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="GitHub" />
   </a>
 </p>
 
@@ -102,18 +102,19 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 ## 📫 Let's Connect & Collaborate
 
+<!-- Bottom Social Icons -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/ios/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
   </a>
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" width="50" height="50" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="GitHub" />
   </a>
   <a href="https://riskikesan05.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
   </a>
 </p>
 
