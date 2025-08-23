@@ -99,22 +99,23 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 <p align="center" style="display: flex; gap: 10px; justify-content: center; margin-top: 0; margin-bottom: 0;">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
+  </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="50" height="50" alt="Gmail" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
+  </a>
   <a href="https://github.com/Rishikesan05">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
-  </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/ios/50/000000/github.png" width="50" height="50" alt="GitHub" />
+  </a>
   <a href="https://riskikesan05.github.io" target="_blank">
-    <img src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Globe-round-icons-others-inmotus-design-4.png" width="50" height="50" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <i>Open to innovative project collaborations, tech discussions, and mentorship opportunities!</i> 💬
 </p>
+
 
 ---
 
