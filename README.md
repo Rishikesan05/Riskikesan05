@@ -118,6 +118,9 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ---
 
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Rishikesan05&color=blueviolet&style=for-the-badge)
-  **Thank you for exploring my world of code! Remember: The best way to predict the future is to create it. 🚀**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rishikesan05&color=blueviolet&style=for-the-badge)
+
+**Thank you for exploring my world of code! Remember: The best way to predict the future is to create it. 🚀**
+
 </div>
