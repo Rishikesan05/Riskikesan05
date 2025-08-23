@@ -1,7 +1,5 @@
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&lines=Rishikesan+✨;Full-Stack+Developer;UI%2FUX+Designer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
+<h1 align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
