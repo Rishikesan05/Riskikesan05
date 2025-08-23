@@ -4,23 +4,18 @@
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
-<!-- Top Professional Social Icons (Top Section) -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Gmail -->
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- Portfolio -->
   <a href="https://riskikesan05.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <!-- GitHub -->
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -57,12 +52,12 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **🌟 [riskikesan.tech](https://github.com/Rishikesan05/rishikesan.tech)** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS | [Live Demo](https://www.rishikesan.tech) |
-| **🎬 [Rishi Productions](https://github.com/Rishikesan05/Rishiproduction.com)** | A production company site with focus on animations and smooth UX | HTML, CSS | [Live Demo](https://rishiproduction.com) |
-| **🛒 E-Commerce Platform** | *Full-stack e-commerce with cart, auth, and payments (In Progress)* | MERN Stack | *Coming Soon* |
-| **🍰 [Cake Zone](https://github.com/Rishikesan05/cakezone)** | A local bakery website to showcase the best cakes in Jaffna | HTML, CSS | [Live Demo](https://cakezone.com) |
-| **💡 [Resell Website - Basic](https://github.com/Rishikesan05/resell-website)** | Find the best deals on second-hand products | HTML, CSS | [Live Demo](https://resellwebsite.com) |
-| **🧑‍🤝‍🧑 [Kandymetup](https://github.com/Rishikesan05/kandymetup)** | A website for organizing meetups in Kandy | HTML, CSS | [Live Demo](https://kandymetup.com) |
+| **[riskikesan.tech](https://github.com/Rishikesan05/rishikesan.tech)** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS | [Live Demo](https://www.rishikesan.tech) |
+| **[Rishi Productions](https://github.com/Rishikesan05/Rishiproduction.com)** | A production company site with focus on animations and smooth UX | HTML, CSS | [Live Demo](https://rishiproduction.com) |
+| **E-Commerce Platform** | *Full-stack e-commerce with cart, auth, and payments (In Progress)* | MERN Stack | *Coming Soon* |
+| **[Cake Zone](https://github.com/Rishikesan05/cakezone)** | A local bakery website to showcase the best cakes in Jaffna | HTML, CSS | [Live Demo](https://cakezone.com) |
+| **[Resell Website - Basic](https://github.com/Rishikesan05/resell-website)** | Find the best deals on second-hand products | HTML, CSS | [Live Demo](https://resellwebsite.com) |
+| **[Kandymetup](https://github.com/Rishikesan05/kandymetup)** | A website for organizing meetups in Kandy | HTML, CSS | [Live Demo](https://kandymetup.com) |
 
 ---
 
@@ -91,30 +86,29 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 ## 🎯 Current Goals & Focus
 
-- **🌟 Designing impactful IoT solutions** for agriculture, healthcare, and environmental sustainability.
-- **📚 Expanding my expertise** in machine learning & cybersecurity.
-- **🎨 Creating polished UI/UX prototypes** and modern web applications.
-- **💻 Enhancing my full-stack development** with a focus on React, Node.js, and Java.
-- **📊 Strengthening my problem-solving abilities** with Data Structures & Algorithms (DSA).
-- **🔭 Building open-source projects** that combine IoT + AI + Web Systems.
+- **Designing impactful IoT solutions** for agriculture, healthcare, and environmental sustainability.
+- **Expanding my expertise** in machine learning & cybersecurity.
+- **Creating polished UI/UX prototypes** and modern web applications.
+- **Enhancing my full-stack development** with a focus on React, Node.js, and Java.
+- **Strengthening my problem-solving abilities** with Data Structures & Algorithms (DSA).
+- **Building open-source projects** that combine IoT + AI + Web Systems.
 
 ---
 
 ## 📫 Let's Connect & Collaborate
 
-<!-- Bottom Social Icons -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="50" height="50" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" width="50" height="50" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Rishikesan05">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="50" height="50" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://riskikesan05.github.io" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="50" height="50" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
