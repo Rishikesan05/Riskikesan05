@@ -4,7 +4,7 @@
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
-<!-- Professional Social Icons (Top Section) -->
+<!-- Professional Light-Colored Social Icons (Top Section) -->
 <p align="center" style="display: flex; gap: 15px; justify-content: center; margin-top: 0; margin-bottom: 0;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
