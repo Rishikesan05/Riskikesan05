@@ -14,7 +14,7 @@
   <a href="https://riskikesan05.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/Riskikesan05">
+  <a href="https://github.com/Rishikesan05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -38,12 +38,12 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riskikesan05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riskikesan05&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikesan05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishikesan05&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riskikesan05&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesan05&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
 </p>
 
 ---
@@ -102,7 +102,7 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="50" height="50" alt="Gmail" />
   </a> &nbsp;&nbsp;
-  <a href="https://github.com/Riskikesan05">
+  <a href="https://github.com/Rishikesan05">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
   </a> &nbsp;&nbsp;
   <a href="https://riskikesan05.github.io" target="_blank">
@@ -118,7 +118,7 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Riskikesan05&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Rishikesan05&color=blueviolet&style=for-the-badge)
 
 **Thank you for exploring my world of code! Remember: The best way to predict the future is to create it. 🚀**
 
