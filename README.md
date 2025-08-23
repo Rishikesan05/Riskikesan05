@@ -4,7 +4,7 @@
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
 
-<p align="center">
+<p align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -97,7 +97,7 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 ## 📫 Let's Connect & Collaborate
 
-<p align="center">
+<p align="center" style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
   </a> &nbsp;&nbsp;
