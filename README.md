@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   <img src="https://your-image-url.com/your-image.png" alt="Typing SVG" />
 </h1>
 
