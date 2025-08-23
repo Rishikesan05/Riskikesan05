@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  <img src="https://your-image-url.com/your-image.png" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHcm2qMa12qRg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719578984705?e=1758758400&v=beta&t=ViTHovXAPFo_R28OkkLvroEevqe_c2vNpWqB5mD3Ufk" width="100%" height="auto" alt="Header Image" />
 </h1>
 
 <h3 align="center">BSc (Hons) Information Systems Student | IEEE Member | Building the Future with Code</h3>
@@ -48,6 +48,19 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **🌟 [riskikesan.tech](https://github.com/Rishikesan05/rishikesan.tech)** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS | [Live Demo](https://www.rishikesan.tech) |
+| **🎬 [Rishi Productions](https://github.com/Rishikesan05/Rishiproduction.com)** | A production company site with focus on animations and smooth UX | HTML, CSS | [Live Demo](https://rishiproduction.com) |
+| **🛒 E-Commerce Platform** | *Full-stack e-commerce with cart, auth, and payments (In Progress)* | MERN Stack | *Coming Soon* |
+| **🍰 [Cake Zone](https://github.com/Rishikesan05/cakezone)** | A local bakery website to showcase the best cakes in Jaffna | HTML, CSS | [Live Demo](https://cakezone.com) |
+| **💡 [Resell Website - Basic](https://github.com/Rishikesan05/resell-website)** | Find the best deals on second-hand products | HTML, CSS | [Live Demo](https://resellwebsite.com) |
+| **🧑‍🤝‍🧑 [Kandymetup](https://github.com/Rishikesan05/kandymetup)** | A website for organizing meetups in Kandy | HTML, CSS | [Live Demo](https://kandymetup.com) |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend Development**  
@@ -68,17 +81,6 @@ I'm a **BSc (Hons) Information Systems** student at the **Faculty of Computing, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live Demo |
-| :--- | :--- | :--- | :--- |
-| **🌟 riskikesan.tech** | My personal portfolio - A performant, accessible showcase of my work | HTML, CSS, JS | [Live Demo](https://riskikesan05.github.io) |
-| **🎬 Rishi Productions** | A production company site with focus on animations and smooth UX | HTML, CSS, JS | [Live Demo](https://riskikesan05.github.io/Rishiproduction.com) |
-| **🛒 E-Commerce Platform** | *Full-stack e-commerce with cart, auth, and payments (In Progress)* | MERN Stack | *Coming Soon* |
-| **🤖 AI Content Summarizer** | *Chrome extension that summarizes articles using NLP (Planned)* | React, Python | *Q4 2025* |
 
 ---
 
